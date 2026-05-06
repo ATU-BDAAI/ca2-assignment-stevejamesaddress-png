@@ -8,9 +8,10 @@ __pycache__/
 *.pyo
 *.pyd
 
-# OS generated files
+# OS generated files .DS_Store is Mac Thubms windowws 
 .DS_Store
 Thumbs.db
 
 # Notebook checkpoints
+# not needed in only vsc but with jupiter server so for flex 
 .ipynb_checkpoints/
